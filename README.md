@@ -78,7 +78,7 @@ This project analyzes supermarket sales data using SQL, Microsoft Excel, Power B
 
 ### Tableau Dashboard
 
-![Tableau Dashboard](Tableau%20Sales%20Dashboard.png)
+![Tableau Dashboard](https://github.dev/)
 
 ### 📊 Key SQL Metrics
 
