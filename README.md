@@ -25,6 +25,14 @@ This project analyzes supermarket sales data using SQL, Microsoft Excel, Power B
 - Total Investment
 - Total Quantity
 
+# KPI	Value
+- Total revenue	322,966.75
+- Total pre-tax sales (Buying price)	307,587.38
+- Total recorded profit	15,379.37
+- Total quantity sold	5,510 units
+- Number of transactions	1,000
+- Average transaction value	322.97
+- Average customer rating	6.97 / 10
 ---
 
 ## 📊 Dashboard Features
